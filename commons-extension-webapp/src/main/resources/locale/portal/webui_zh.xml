@@ -2,19 +2,19 @@
 <bundle>
   <UIContainerForm>
     <label>
-      <name>Container Name</name>
+      <name>容器名称</name>
     </label>
   </UIContainerForm>
   <ContainerOptions>
     <Item>
-      <pluginContainer>Dynamic Row</pluginContainer>
-      <pluginColumnContainer>Dynamic Column</pluginColumnContainer>
+      <pluginContainer>动态行</pluginContainer>
+      <pluginColumnContainer>动态柱</pluginColumnContainer>
     </Item>
   </ContainerOptions>
   <UIPortlet>
     <label>
-      <AddOnContainer>Dynamic Row</AddOnContainer>
-      <AddOnColumnContainer>Dynamic Column</AddOnColumnContainer>
+      <AddOnContainer>动态行</AddOnContainer>
+      <AddOnColumnContainer>动态柱</AddOnColumnContainer>
     </label>
   </UIPortlet>
 </bundle>
