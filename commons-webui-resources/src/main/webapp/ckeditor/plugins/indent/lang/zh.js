@@ -3,6 +3,6 @@ Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'indent', 'zh', {
-	indent: '增加縮排',
-	outdent: '減少縮排'
+	indent: '增加缩排',
+	outdent: '减少缩排'
 });

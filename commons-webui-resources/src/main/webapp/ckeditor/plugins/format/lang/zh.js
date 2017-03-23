@@ -7,12 +7,12 @@ CKEDITOR.plugins.setLang( 'format', 'zh', {
 	panelTitle: '格式',
 	tag_address: '位址',
 	tag_div: '一般 (DIV)',
-	tag_h1: '標題 1',
-	tag_h2: '標題 2',
-	tag_h3: '標題 3',
-	tag_h4: '標題 4',
-	tag_h5: '標題 5',
-	tag_h6: '標題 6',
+	tag_h1: '标题 1',
+	tag_h2: '标题 2',
+	tag_h3: '标题 3',
+	tag_h4: '标题 4',
+	tag_h5: '标题 5',
+	tag_h6: '标题 6',
 	tag_p: '一般',
 	tag_pre: '已格式化'
 });

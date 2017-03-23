@@ -4,6 +4,6 @@ For licensing, see LICENSE.html or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'specialchar', 'zh', {
 	options: 'Special Character Options', // MISSING
-	title: '請選擇特殊符號',
-	toolbar: '插入特殊符號'
+	title: '请选择特殊符号',
+	toolbar: '插入特殊符号'
 });

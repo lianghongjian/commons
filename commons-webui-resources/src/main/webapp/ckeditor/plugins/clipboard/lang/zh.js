@@ -3,13 +3,13 @@ Copyright (c) 2003-2013, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.html or http://ckeditor.com/license
 */
 CKEDITOR.plugins.setLang( 'clipboard', 'zh', {
-	copy: '複製',
-	copyError: '瀏覽器的安全性設定不允許編輯器自動執行複製動作。請使用快捷鍵 (Ctrl/Cmd+C) 複製。',
-	cut: '剪下',
-	cutError: '瀏覽器的安全性設定不允許編輯器自動執行剪下動作。請使用快捷鍵 (Ctrl/Cmd+X) 剪下。',
-	paste: '貼上',
+	copy: '复制',
+	copyError: '浏览器的安全性设定不允许编辑器自动执行复制操作。请使用快捷键 (Ctrl/Cmd+C) 复制。',
+	cut: '剪切',
+	cutError: '浏览器的安全性设定不允许编辑器自动执行剪切操作。请使用快捷键 (Ctrl/Cmd+X) 剪切。',
+	paste: '粘贴',
 	pasteArea: 'Paste Area', // MISSING
-	pasteMsg: '請使用快捷鍵 (<strong>Ctrl/Cmd+V</strong>) 貼到下方區域中並按下 <strong>確定</strong>',
-	securityMsg: '因為瀏覽器的安全性設定，本編輯器無法直接存取您的剪貼簿資料，請您自行在本視窗進行貼上動作。',
-	title: '貼上'
+	pasteMsg: '请使用快捷键 (<strong>Ctrl/Cmd+V</strong>) 粘贴到下方区域中并按下 <strong>确定</strong>',
+	securityMsg: '因为浏览器的安全性设定，本编辑器无法直接存取您的剪贴簿资料，请您自行在本视窗进行粘贴操作。',
+	title: '粘贴'
 });

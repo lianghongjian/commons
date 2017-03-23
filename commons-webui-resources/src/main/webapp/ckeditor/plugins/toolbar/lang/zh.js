@@ -18,5 +18,5 @@ CKEDITOR.plugins.setLang( 'toolbar', 'zh', {
 		colors: 'Colors',
 		tools: 'Tools'
 	},
-	toolbars: '編輯器工具欄'
+	toolbars: '编辑器工具栏'
 });
